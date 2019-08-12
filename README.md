@@ -6,10 +6,13 @@ TensorFlow，学习到神经网络优化算法，主要包括梯度下降算法�
 问题：吴恩达深度视频和《tensorflow实战教学》，接下来的内容都是CNN和RNN的教学。论坛中有人推荐：如果主要从事NLP的话直接学习RNN比较好。老师您看我要怎么做好一点？ ///diff
 ```       
 ``` fuck
-问题：吴恩达深度视频和《tensorflow实战教学》，接下来的内容都是CNN和RNN的教学。论坛中有人推荐：如果主要从事NLP的话直接学习RNN比较好。老师您看我要怎么做好一点？ #fuck
+问题：吴恩达深度视频和《tensorflow实战教学》，接下来的内容都是CNN和RNN的教学。论坛中有人推荐：如果主要从事NLP的话直接学习RNN比较好。老师您看我要怎么做好一点？ 
 ```
 ```Java
-public static void main(String[]args){} //Java
+public static void main(String[]args){} 
+```
+```Java
+// public static void main(String[]args){} 
 ```
 ## 2.Python
 学习到Pandas，代码实现了pandas中的Series、DataFrame的基本操作和数据索引。接下来学习利用pandas进行数据清洗和分析
